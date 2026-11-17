@@ -1,0 +1,19 @@
+[17/11/2026] Sistema iniciado correctamente.
+
+[17/11/2026] Cliente registrado:
+Luis Alejandro - 208026
+
+[17/11/2026] Servicio creado:
+Reserva Sala VIP
+
+[17/11/2026] Reserva confirmada.
+
+[17/11/2026] Reserva cancelada correctamente.
+
+[17/11/2026] Cliente registrado:
+Carlos - 12345
+
+[17/11/2026] Servicio creado:
+Sala Ejecutiva
+
+[17/11/2026] Reserva creada correctamente.
